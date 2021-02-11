@@ -12,7 +12,7 @@ The benchmarks used can be found [here](https://github.com/jmbaker94/quantumcirc
 ### Dependencies
 
 Python dependencies:
-- Cirq==0.8, Qiskit==0.14.0
+- Cirq==0.8, Qiskit-terra==0.14.0
 - networkx
 - [quantumcircuitbenchmarks@7d5452d](https://github.com/jmbaker94/quantumcircuitbenchmarks/tree/7d5452d3080cca41c4525c8134eb7fad773e41cb)
 - numpy, matplotlib
